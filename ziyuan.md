@@ -32,7 +32,7 @@ title: 资源「USEFUL LINKS」
 <h3> Some useful/beautiful web </h3>   
 <p>
 <a href="https://www.panc.cc" target="_blank">胖次</a>- 网盘，资料搜索..&nbsp;&nbsp;
-<a href="http://ftq.link/?u=9831" target="_blank">科学上网</a>- VPN,翻墙 &nbsp;&nbsp;
+<a href="https://lvpn.info/aff.php?id=923137" target="_blank">科学上网</a>- VPN,翻墙 &nbsp;&nbsp;
 <a href="http://daohang.lusongsong.com/" target="_blank">博客大全</a>- Blog&nbsp;&nbsp;
 
 <p>
